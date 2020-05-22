@@ -1,4 +1,4 @@
-#Hackerrank Day 5: Computing the Correlation challenge
+#HackerRank Day 5: Computing the Correlation challenge
 #Author: Luciano Carli Moreira de Andrade
 
 #You are given the scores of N students in three different subjects - Mathematics,*Physics* and Chemistry; all of which have 
