@@ -42,7 +42,6 @@
 
 import numpy as np
 import scipy.stats
-import pandas as pd
 
 data = {'Mathematics':  [73, 48, 95, 95, 33, 47, 98, 91, 95, 93, 70, 85, 33, 47, 95, 84, 43, 95, 54, 72],
         'Physics': [72, 67, 92, 95, 59, 58, 95, 94, 84, 83, 70, 79, 67, 73, 87, 86, 63, 92, 80, 76],
